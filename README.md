@@ -3,7 +3,13 @@
 
 :heavy_check_mark: Run
 
-java Main.java
+`java Main.java`
+
+OR
+
+`javac Main.java`
+
+`./Main.class`
 
 ---------------------------------
 
